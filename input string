@@ -1,0 +1,29 @@
+{
+"name" : "Tolexo Online Pvt. Ltd",
+"age_in_years" : 8.5,
+"origin" : "Noida",
+"head_office" : "Noida, Uttar Pradesh",
+"address" : [
+{
+"street" : "91 Springboard",
+"landmark" : "Axis Bank",
+"city" : "Noida",
+"pincode" : 201301,
+"state" : "Uttar Pradesh"
+},
+{
+"street" : "91 Springboard",
+"landmark" : "Axis Bank",
+"city" : "Noida",
+"pincode" : 201301,
+"state" : "Uttar Pradesh"
+}
+],
+"sponsers" : {
+"name" : "One"
+},
+"revenue" : "19.8 million$",
+"no_of_employee" : 630,
+"str_text" : ["one","two"],
+"int_text" : [1,3,4]
+}
